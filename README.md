@@ -1,6 +1,6 @@
 👋 Hi, I’m Anna Moraco.
 
-- 👀 I’m interested in electrical engineering, power systems, software development, supervisory systems (SCADA), C/C++, python and data science.
+- 👀 I’m an electrical engineer interested in power systems, renewable energies, software development, supervisory systems (SCADA), C/C++, python and data science.
 - 🌱 I’m currently learning how to improve my "Programming Etiquette".
 - 💞️ I’m looking to collaborate on power systems research and development.
 - 📫 How to reach me: e-mail annamoraco@gmail.com and <a href="https://www.linkedin.com/in/anna-moraco/">LinkedIn: /anna-moraco</a>
